@@ -3,6 +3,7 @@ It's a doom-style walking simulator that runs on Windows Terminal
 It's a little rough, but I hope that I will fix it in the future.
 
 CONTROLS:
+
 -arrows sideways to rotate
 
 -and forward and backwards to move front and back
